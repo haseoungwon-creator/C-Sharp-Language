@@ -1,34 +1,60 @@
 ﻿namespace Program
 {
+    
+    public class Circle
+    {
+
+        public int x;
+        public int y;
+        public float radius;
+        public Circle() 
+        {
+            Console.WriteLine("Created Circle");
+        }
+
+        ~Circle()
+        {
+            Console.WriteLine("Destoryed Circle");
+        }
+    }
     internal class Program
     {
+
+        static void Collide(Circle origin, Circle other)
+        {
+            float deltaX = origin.x - other.x;
+            float deltaY = origin.y - other.y;
+            float radius = (origin.radius + other.radius) * (origin.radius + other.radius);
+            if (deltaX * deltaX + deltaY * deltaY <= radius)
+            {
+
+            }
+            else
+            {
+
+            }
+        }
         static void Main(string[] args)
         {
-            #region 박싱
-            // 값 타입을 참조 타입으로 변환하여 관리되는 힙 영역에 새로운 객체를
-            // 만들고 복사하는 과정입니다.
 
-            //int count = 0;
+            #region 매개 변수 한정자
+            // 인수가 함수에 전달되는 방식과 사용 규칙을 제어하는 한정자
 
-            //object clone = count;
 
-            //Console.WriteLine("Clone : " + clone);
-            //Console.WriteLine("Count : " + count);
-            #endregion
+            Circle circle = new Circle();
+            
 
-            #region 언박싱
-            // 관리되는 힙 영역에 있는 박싱되어 있는 객체에서 값을 꺼내
-            // 값 타입으로 복사하는 과정
+            circle.x = 5;
+            circle.y = 5;
+            circle.radius = 1.0f;
 
-            //long experience = 2000;
+            Circle quadrant = new Circle();
 
-            //object address = experience;
+            quadrant.x = 1;
+            quadrant.y = 2;
+            circle.radius = 1.0f;
 
-            //long data = (long)address;
-
-            //Console.WriteLine("Experience : " + experience);
-            //Console.WriteLine("address : " + address);
-            //Console.WriteLine("data : " + data);
+            Collide(circle, quadrant);
             #endregion
         }
     }

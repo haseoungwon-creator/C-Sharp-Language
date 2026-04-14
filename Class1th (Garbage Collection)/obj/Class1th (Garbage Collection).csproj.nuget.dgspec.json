@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.csproj": {}
+    "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\Class1th (Garbage Collection).csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.csproj": {
+    "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\Class1th (Garbage Collection).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.csproj",
-        "projectName": "Program",
-        "projectPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\Class1th (Garbage Collection).csproj",
+        "projectName": "Class1th (Garbage Collection)",
+        "projectPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\Class1th (Garbage Collection).csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
