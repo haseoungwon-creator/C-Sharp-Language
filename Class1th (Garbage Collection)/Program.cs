@@ -1,7 +1,46 @@
-﻿internal class Program
+﻿public class Circle
 {
+
+    public int x;
+    public int y;
+    public float radius;
+    public Circle()
+    {
+        Console.WriteLine("Created Circle");
+    }
+
+    ~Circle()
+    {
+        Console.WriteLine("Destoryed Circle");
+    }
+}
+
+
+internal class Program
+{
+
+    static void Collide(Circle origin, Circle other)
+    {
+        float deltaX = origin.x - other.x;
+        float deltaY = origin.y - other.y;
+        float radius = (origin.radius + other.radius) * (origin.radius + other.radius);
+
+        if (deltaX * deltaX + deltaY * deltaY <= radius)
+        {
+            Console.WriteLine("collision occurred");
+        }
+
+        else
+        {
+            Console.WriteLine("No collision detected");
+        }
+
+    }
+
+
     static void Main(string[] args)
     {
+        
         #region 박싱
         // 값 타입을 참조 타입으로 변환하여 관리되는 힙 영역에 새로운 객체를
         // 만들고 복사하는 과정입니다.
@@ -30,6 +69,22 @@
         #endregion
 
         #region 가비지 컬랙터
+
+
+        Circle circle = new Circle();
+
+
+        circle.x = 5;
+        circle.y = 5;
+        circle.radius = 1.0f;
+
+        Circle quadrant = new Circle();
+
+        quadrant.x = 1;
+        quadrant.y = 2;
+        circle.radius = 1.0f;
+
+        Collide(circle, quadrant);
         // 메모리 관리를 담당하는 시스템이며, 메모리에서 더 이상 사용되지
         // 않는 객체를 탐색하여 메모리를 회수하는 기법
 
