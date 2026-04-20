@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Knight : Soldier
+    internal class Guard : Soldier
     {
-
-        public Knight() 
+        public Guard()
         {
-            health = 200;
-            defence = 5;
+            health = 300;
+            defence = 7;
         }
+
         public override void Attack()
         {
-            Console.WriteLine("Knight Attack\n");
+            Console.WriteLine("Guard Attack\n");
         }
     }
 }

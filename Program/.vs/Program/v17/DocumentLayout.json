@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\barracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:barracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,45 +45,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Barracks.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Barracks.cs",
+              "RelativeDocumentMoniker": "Barracks.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Barracks.cs",
+              "RelativeToolTip": "Barracks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:22:32.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Guard.cs",
+              "RelativeDocumentMoniker": "Guard.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Guard.cs",
+              "RelativeToolTip": "Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:27:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Archer.cs",
+              "RelativeDocumentMoniker": "Archer.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Archer.cs",
+              "RelativeToolTip": "Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:23:29.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Knight.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Knight.cs",
               "RelativeDocumentMoniker": "Knight.cs",
               "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Knight.cs",
               "RelativeToolTip": "Knight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:29:24.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Unit.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Unit.cs",
-              "RelativeDocumentMoniker": "Unit.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Unit.cs",
-              "RelativeToolTip": "Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Soldier.cs",
+              "RelativeDocumentMoniker": "Soldier.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Soldier.cs",
+              "RelativeToolTip": "Soldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:23:57.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class2th (Parameter Modifier)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Class2th (Parameter Modifier)\\Program.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class2th (Parameter Modifier)\\Program.cs",
-              "RelativeToolTip": "..\\Class2th (Parameter Modifier)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:12:37.476Z",
+              "WhenOpened": "2026-04-14T15:23:25.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class1th (Garbage Collection)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class1th (Garbage Collection)\\Program.cs",
@@ -79,21 +130,19 @@
               "RelativeToolTip": "..\\Class1th (Garbage Collection)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T16:08:24.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T16:08:24.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class2th (Parameter Modifier)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class2th (Parameter Modifier)\\Program.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class2th (Parameter Modifier)\\Program.cs",
+              "RelativeToolTip": "..\\Class2th (Parameter Modifier)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T15:23:25.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T12:12:37.476Z"
             }
           ]
         }
