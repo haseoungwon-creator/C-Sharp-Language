@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class1th (Garbage Collectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2th (Parameter Modifier)", "..\Class2th (Parameter Modifier)\Class2th (Parameter Modifier).csproj", "{F29378A5-C996-46EB-A671-EC1F7718E1F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3th (Abstract Class)", "..\Class3th (Abstract Class)\Class3th (Abstract Class).csproj", "{E06B158C-9C5A-4450-B2BE-C619F2A792E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F29378A5-C996-46EB-A671-EC1F7718E1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F29378A5-C996-46EB-A671-EC1F7718E1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F29378A5-C996-46EB-A671-EC1F7718E1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

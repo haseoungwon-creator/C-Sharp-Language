@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Program
 {
-    internal abstract class Soldier
+    internal interface ISelectable
     {
-        protected int health;
-        protected int defence;
-        public abstract void Attack();
+        public void Select();
     }
 }
-

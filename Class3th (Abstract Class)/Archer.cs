@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+internal class Archer : Soldier
+{
+    public Archer()
+    {
+        health = 100;
+        defence = 2;
+    }
+    public override void Attack()
+    {
+        Console.WriteLine("Archer Attack\n");
+    }
+}
