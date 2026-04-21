@@ -11,9 +11,24 @@ namespace Program
 
         private int count =0;
         private Soldier[] soldiers = new Soldier[5];
-        public void Create(int select)
+        public void Create(int select int i)
         {
-           
+
+
+
+            switch (select)
+            {
+                case 1:
+                    soldiers = new Knight();
+                    break;
+                case 2:
+                    soldiers = new Archer();
+                    break;
+                case 3:
+                    soldiers = new Guard();
+                    break;
+            }
+          
         }
 
         public void Battle()

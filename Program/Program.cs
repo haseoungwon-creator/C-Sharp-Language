@@ -23,8 +23,6 @@ namespace Program
 
                 Console.Write("Select a soldier : ");
                 select = int.Parse(Console.ReadLine());
-                
-               
 
                 createCount++;
 
