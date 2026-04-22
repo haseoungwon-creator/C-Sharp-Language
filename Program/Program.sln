@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2th (Parameter Modifie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3th (Abstract Class)", "..\Class3th (Abstract Class)\Class3th (Abstract Class).csproj", "{E06B158C-9C5A-4450-B2BE-C619F2A792E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4th (Interface)", "..\Class4th (Interface)\Class4th (Interface).csproj", "{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E06B158C-9C5A-4450-B2BE-C619F2A792E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

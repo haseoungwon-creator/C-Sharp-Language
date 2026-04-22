@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
+
+internal interface IActivatable
 {
-    internal interface ISelectable
-    {
-        public void Select();
-    }
+    public void Activate();
 }
+
