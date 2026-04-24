@@ -15,6 +15,12 @@ using System.Threading.Tasks;
         objects = new T[size];
     }
 
+    public int ObjextsLang
+    {
+        get { return objects.Length; }
+
+    }
+
     public T Instantiate()
     {
 

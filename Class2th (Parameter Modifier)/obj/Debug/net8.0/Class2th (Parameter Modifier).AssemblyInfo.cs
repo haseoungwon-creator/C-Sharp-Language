@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class2th (Parameter Modifier)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b67356cf46de26ebcc9344aad3fe8496ce72b03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa29b7b69325d1b4ce3e4ab586c138aaea99196")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class2th (Parameter Modifier)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class2th (Parameter Modifier)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
