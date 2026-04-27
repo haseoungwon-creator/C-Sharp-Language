@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4th (Interface)", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class5th (Generalization)", "..\Class5th (Generalization)\Class5th (Generalization).csproj", "{1DBBF761-3DA1-4973-8A4F-E0FDF71B2336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class6th (Collections)", "..\Class6th (Collections)\Class6th (Collections).csproj", "{EF948B96-3361-45B7-97BF-B29DA5371AFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1DBBF761-3DA1-4973-8A4F-E0FDF71B2336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DBBF761-3DA1-4973-8A4F-E0FDF71B2336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DBBF761-3DA1-4973-8A4F-E0FDF71B2336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF948B96-3361-45B7-97BF-B29DA5371AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF948B96-3361-45B7-97BF-B29DA5371AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF948B96-3361-45B7-97BF-B29DA5371AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF948B96-3361-45B7-97BF-B29DA5371AFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
