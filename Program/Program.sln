@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class6th (Collections)", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class7th (Enumerator)", "..\Class7th (Enumerator)\Class7th (Enumerator).csproj", "{1C964301-57DC-42D3-95EA-2DD8924539C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class8th (Delegate)", "..\Class8th (Delegate)\Class8th (Delegate).csproj", "{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1C964301-57DC-42D3-95EA-2DD8924539C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C964301-57DC-42D3-95EA-2DD8924539C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C964301-57DC-42D3-95EA-2DD8924539C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
