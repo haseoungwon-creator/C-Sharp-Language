@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Authenticate
+    internal class Sensor
     {
-
-
+        public void Detect(Product product)
+        {
+            product.Describe();
+        }
     }
 }

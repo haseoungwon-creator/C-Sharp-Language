@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class7th (Enumerator)", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class8th (Delegate)", "..\Class8th (Delegate)\Class8th (Delegate).csproj", "{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9th (Single Responsibility Principle)", "..\Class9th (Single Responsibility Principle)\Class9th (Single Responsibility Principle).csproj", "{26883583-F60C-41C2-8BF8-564EC4CF1DA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DE707CD-4402-43B8-A5EE-9BCC6B39E31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
