@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class8th (Delegate)", "..\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9th (Single Responsibility Principle)", "..\Class9th (Single Responsibility Principle)\Class9th (Single Responsibility Principle).csproj", "{26883583-F60C-41C2-8BF8-564EC4CF1DA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10th (Open Closed Principle)", "..\Class10th (Open Closed Principle)\Class10th (Open Closed Principle).csproj", "{27755E9E-9A12-40A6-9616-87693ABE680D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class11th (Interface Segregation Principle)", "..\Class11th (Interface Segregation Principle)\Class11th (Interface Segregation Principle).csproj", "{72497840-208F-40BF-863D-99401B6ADD5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26883583-F60C-41C2-8BF8-564EC4CF1DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27755E9E-9A12-40A6-9616-87693ABE680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27755E9E-9A12-40A6-9616-87693ABE680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27755E9E-9A12-40A6-9616-87693ABE680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27755E9E-9A12-40A6-9616-87693ABE680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72497840-208F-40BF-863D-99401B6ADD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72497840-208F-40BF-863D-99401B6ADD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72497840-208F-40BF-863D-99401B6ADD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72497840-208F-40BF-863D-99401B6ADD5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
