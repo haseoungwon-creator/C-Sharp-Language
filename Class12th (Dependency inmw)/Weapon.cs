@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
-{
+
+
     abstract class Weapon
     {
         public int Damage;
@@ -13,4 +13,3 @@ namespace Program
 
         public abstract void Attack();
     }
-}

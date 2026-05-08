@@ -3,33 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056D93E1-DAE1-4C99-93D8-C1971E99DECA}|..\\Class13th (Liskov Substitution Principle)\\Class13th (Liskov Substitution Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class13th (liskov substitution principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|c:\\users\\owner\\desktop\\c-sharp-language\\program\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DACFC018-5B62-40FA-8D43-C53B0E606C91}|Program.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056D93E1-DAE1-4C99-93D8-C1971E99DECA}|..\\Class13th (Liskov Substitution Principle)\\Class13th (Liskov Substitution Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class13th (liskov substitution principle)\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26883583-F60C-41C2-8BF8-564EC4CF1DA7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class9th (single responsibility principle)\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{056D93E1-DAE1-4C99-93D8-C1971E99DECA}|..\\Class13th (Liskov Substitution Principle)\\Class13th (Liskov Substitution Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class13th (liskov substitution principle)\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D93E1-DAE1-4C99-93D8-C1971E99DECA}|..\\Class13th (Liskov Substitution Principle)\\Class13th (Liskov Substitution Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class13th (liskov substitution principle)\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D93E1-DAE1-4C99-93D8-C1971E99DECA}|..\\Class13th (Liskov Substitution Principle)\\Class13th (Liskov Substitution Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class13th (liskov substitution principle)\\flyabls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5380DFFD-6724-4081-8E66-4D4301EA921D}|..\\Class12th (Dependency inmw)\\Class12th (Dependency inmw).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class12th (dependency inmw)\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\enumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26883583-F60C-41C2-8BF8-564EC4CF1DA7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class9th (single responsibility principle)\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26883583-F60C-41C2-8BF8-564EC4CF1DA7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class9th (single responsibility principle)\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF948B96-3361-45B7-97BF-B29DA5371AFE}|..\\Class6th (Collections)\\Class6th (Collections).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class6th (collections)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5380DFFD-6724-4081-8E66-4D4301EA921D}|..\\Class12th (Dependency inmw)\\Class12th (Dependency inmw).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class12th (dependency inmw)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5380DFFD-6724-4081-8E66-4D4301EA921D}|..\\Class12th (Dependency inmw)\\Class12th (Dependency inmw).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class12th (dependency inmw)\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5380DFFD-6724-4081-8E66-4D4301EA921D}|..\\Class12th (Dependency inmw)\\Class12th (Dependency inmw).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class12th (dependency inmw)\\grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5380DFFD-6724-4081-8E66-4D4301EA921D}|..\\Class12th (Dependency inmw)\\Class12th (Dependency inmw).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class12th (dependency inmw)\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26883583-F60C-41C2-8BF8-564EC4CF1DA7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class9th (single responsibility principle)\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72497840-208F-40BF-863D-99401B6ADD5F}|..\\Class11th (Interface Segregation Principle)\\Class11th (Interface Segregation Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class11th (interface segregation principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -83,22 +109,10 @@
       "AbsoluteMoniker": "D:0:0:{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}|..\\Class4th (Interface)\\Class4th (Interface).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class4th (interface)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF948B96-3361-45B7-97BF-B29DA5371AFE}|..\\Class6th (Collections)\\Class6th (Collections).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class6th (collections)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\enumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26883583-F60C-41C2-8BF8-564EC4CF1DA7}|..\\Class9th (Single Responsibility Principle)\\Class9th (Single Responsibility Principle).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class9th (single responsibility principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C964301-57DC-42D3-95EA-2DD8924539C6}|..\\Class7th (Enumerator)\\Class7th (Enumerator).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class7th (enumerator)\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EEE8B08-16FD-46EB-8E34-23D5F9A00A81}|..\\Class4th (Interface)\\Class4th (Interface).csproj|c:\\users\\owner\\desktop\\c-sharp-language\\class4th (interface)\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -120,89 +134,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Character.cs",
-              "RelativeDocumentMoniker": "Character.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Character.cs",
-              "RelativeToolTip": "Character.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:25:21.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Knife.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Knife.cs",
-              "RelativeDocumentMoniker": "Knife.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Knife.cs",
-              "RelativeToolTip": "Knife.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Dragon.cs",
+              "RelativeDocumentMoniker": "..\\Class13th (Liskov Substitution Principle)\\Dragon.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Dragon.cs",
+              "RelativeToolTip": "..\\Class13th (Liskov Substitution Principle)\\Dragon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:21:13.481Z",
+              "WhenOpened": "2026-05-08T12:15:59.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Weapon.cs",
-              "RelativeDocumentMoniker": "Weapon.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Weapon.cs",
-              "RelativeToolTip": "Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Enemy.cs",
+              "RelativeDocumentMoniker": "..\\Class13th (Liskov Substitution Principle)\\Enemy.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Enemy.cs",
+              "RelativeToolTip": "..\\Class13th (Liskov Substitution Principle)\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:20:03.132Z",
+              "WhenOpened": "2026-05-08T12:15:51.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\User.cs",
-              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\User.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\User.cs",
-              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\User.cs",
+              "Title": "Flyabls.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Flyabls.cs",
+              "RelativeDocumentMoniker": "..\\Class13th (Liskov Substitution Principle)\\Flyabls.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Flyabls.cs",
+              "RelativeToolTip": "..\\Class13th (Liskov Substitution Principle)\\Flyabls.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:26:11.47Z",
+              "WhenOpened": "2026-05-08T12:15:45.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Slime.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Slime.cs",
+              "RelativeDocumentMoniker": "..\\Class13th (Liskov Substitution Principle)\\Slime.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Slime.cs",
+              "RelativeToolTip": "..\\Class13th (Liskov Substitution Principle)\\Slime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:15:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class13th (Liskov Substitution Principle)\\Program.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class13th (Liskov Substitution Principle)\\Program.cs",
+              "RelativeToolTip": "..\\Class13th (Liskov Substitution Principle)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:14:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Weapon.cs",
+              "RelativeDocumentMoniker": "..\\Class12th (Dependency inmw)\\Weapon.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Weapon.cs",
+              "RelativeToolTip": "..\\Class12th (Dependency inmw)\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:17:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T05:28:53.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Grenade.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Grenade.cs",
-              "RelativeDocumentMoniker": "Grenade.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Program\\Grenade.cs",
-              "RelativeToolTip": "Grenade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Enumerator.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Enumerator.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Enumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:21:31.683Z",
+              "WhenOpened": "2026-04-30T09:33:35.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Inventory.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:33:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Item.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Item.cs",
+              "RelativeToolTip": "..\\Class7th (Enumerator)\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:33:02.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Authenticate.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
               "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Authenticate.cs",
@@ -215,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Persistence.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\Persistence.cs",
               "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Persistence.cs",
@@ -228,7 +294,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class6th (Collections)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class6th (Collections)\\Program.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class6th (Collections)\\Program.cs",
+              "RelativeToolTip": "..\\Class6th (Collections)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:38:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Character.cs",
+              "RelativeDocumentMoniker": "..\\Class12th (Dependency inmw)\\Character.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Character.cs",
+              "RelativeToolTip": "..\\Class12th (Dependency inmw)\\Character.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:17:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grenade.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Grenade.cs",
+              "RelativeDocumentMoniker": "..\\Class12th (Dependency inmw)\\Grenade.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Grenade.cs",
+              "RelativeToolTip": "..\\Class12th (Dependency inmw)\\Grenade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:17:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Knife.cs",
+              "RelativeDocumentMoniker": "..\\Class12th (Dependency inmw)\\Knife.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Knife.cs",
+              "RelativeToolTip": "..\\Class12th (Dependency inmw)\\Knife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:17:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class12th (Dependency inmw)\\Program.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class12th (Dependency inmw)\\Program.cs",
+              "RelativeToolTip": "..\\Class12th (Dependency inmw)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:16:09.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\User.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\User.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\User.cs",
+              "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:26:11.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IDamageable.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\IDamageable.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\IDamageable.cs",
@@ -240,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "ISellable.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\ISellable.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\ISellable.cs",
@@ -252,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\Seller.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Seller.cs",
@@ -264,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Sentinel.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\Sentinel.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Sentinel.cs",
@@ -276,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Program.cs",
@@ -288,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Guide.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\Guide.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Guide.cs",
@@ -300,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "ICommunicable.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class11th (Interface Segregation Principle)\\ICommunicable.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\ICommunicable.cs",
@@ -312,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Sensor.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Sensor.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Sensor.cs",
@@ -324,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Sealant.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Sealant.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Sealant.cs",
@@ -336,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Product.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Product.cs",
@@ -348,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Defective.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Defective.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Defective.cs",
@@ -360,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Program.cs",
@@ -372,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Bread.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class10th (Open Closed Principle)\\Bread.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Bread.cs",
@@ -384,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "Selectable.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Selectable.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Selectable.cs",
@@ -396,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "Activatable.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Activatable.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Activatable.cs",
@@ -408,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Clock.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Clock.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Clock.cs",
@@ -420,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Program.cs",
@@ -432,43 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class6th (Collections)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Class6th (Collections)\\Program.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class6th (Collections)\\Program.cs",
-              "RelativeToolTip": "..\\Class6th (Collections)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T12:38:38.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Enumerator.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Enumerator.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Enumerator.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Enumerator.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Enumerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:33:35.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Inventory.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Inventory.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Inventory.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:33:13.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class9th (Single Responsibility Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Program.cs",
@@ -480,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Program.cs",
@@ -492,19 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Item.cs",
-              "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Item.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class7th (Enumerator)\\Item.cs",
-              "RelativeToolTip": "..\\Class7th (Enumerator)\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:33:02.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Switch.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Switch.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Switch.cs",
@@ -516,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class5th (Generalization)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class5th (Generalization)\\Program.cs",
@@ -528,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class8th (Delegate)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class8th (Delegate)\\Program.cs",
@@ -540,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "Frame.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\C-Sharp-Language\\Class4th (Interface)\\Frame.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Frame.cs",
